@@ -18,6 +18,14 @@
 
 #### Dentro del proyecto podremos observar las distintas fases de darrollo en cual se basó el análisis. Se inició con un análisis profundo de los datasets para posteriormente tomar desiciones y realizar las transformaciones correspondientes. Para este proceso se utilizó Python, Jupyter Notebook dentro de Visual Studio Code. Luego de realizar el EDA se procedió con la creación del Dashboard en Power BI, mostrando de manera específica y visual las conclusiones del EDA que llevarían a la toma de desiciones de la empresa de Telecomunicaciones para una mejora constante en diversos aspectos como: financiero, calidad, enfoque en el tipo de servicio, etc.
 
+## Conclusiones:
+
+- Diversificación de tecnologías
+- Crecimiento sostenido de accesos
+- Enfoque en tecnologías emergentes
+- Estrategia de ingresos
+- Focalización en áreas de baja conectividad
+
 #### Cabe resaltar que las conclusiones, están detalladas dentro del archivo del EDA (en la parte final).
 
 ## Contacto:
