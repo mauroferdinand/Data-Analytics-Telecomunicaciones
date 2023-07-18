@@ -26,6 +26,8 @@
 - Estrategia de ingresos
 - Focalización en áreas de baja conectividad
 
+ [Dashboard](https://drive.google.com/file/d/1j4ui7Hv5nO-OngoHo_d1_tRwdBTNieHa/view?usp=sharing)
+
 #### Cabe resaltar que las conclusiones, están detalladas dentro del archivo del EDA (en la parte final).
 
 ## Contacto:
