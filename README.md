@@ -14,7 +14,7 @@
 
 ## Desarrollo:
 
-#### Dentro del proyecto podremos observar las distintas fases de darrollo en cual se basó el análisis. Se inició con un análisis profundo de los datasets para posteriormente tomar desiciones y realizar las transformaciones correspondientes. Para este proceso se utilizó Python, Jupyter Notebook dentro de Visual Studio Code. Luego de realizar el EDA se procedió con la creación del Dashboard en Power BI, mostrando de manera específica y visual las conclusiones del EDA que llevarían a la toma de desiciones de la empresa de Telecomunicaciones para una mejora constante en diversos aspectos como: financiero, calidad, enfoque en el tipo de servicio, etc.
+#### Dentro del proyecto podremos observar las distintas fases de darrollo en cual se basó el análisis. Se inició con un análisis profundo de los datasets para posteriormente tomar desiciones y realizar las transformaciones correspondientes. Para este proceso se utilizó Python, Jupyter Notebook dentro de Visual Studio Code. Luego de realizar el EDA se procedió con la creación del Dashboard en Power BI, mostrando de manera específica y visual las conclusiones del EDA, así como también 3 KPI's que llevarían a la toma de desiciones de la empresa de Telecomunicaciones para una mejora constante en diversos aspectos como: financiero, calidad, enfoque en el tipo de servicio, etc.
 
 ![](https://www.simplilearn.com/ice9/free_resources_article_thumb/Business_Analytics_vs_Data_Analytics.jpg)
 
@@ -26,7 +26,7 @@
 - Estrategia de ingresos
 - Focalización en áreas de baja conectividad
 
- [Dashboard](https://drive.google.com/file/d/1j4ui7Hv5nO-OngoHo_d1_tRwdBTNieHa/view?usp=sharing)
+ [Dashboard](https://drive.google.com/file/d/1lQu1jZK1sP231emyxlS2vXB5KJfE0SSI/view?usp=sharing)
 
 #### Cabe resaltar que las conclusiones, están detalladas dentro del archivo del EDA (en la parte final).
 
