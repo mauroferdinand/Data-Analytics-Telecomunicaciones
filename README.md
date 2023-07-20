@@ -4,7 +4,7 @@
 
 ## Presentación:
 
-#### El proyecto muestra el desarrollo de un completo análisis de datos para una empresa de comunicaciones, enfocada en Argentina, que brinda internet fijo como principal servicio y busca mejorar el desempeño y la gestión de sus productos.
+#### El proyecto muestra el desarrollo de un completo análisis de datos para una empresa de telecomunicaciones, enfocada en Argentina, que brinda internet fijo como principal servicio y busca mejorar el desempeño y la gestión de sus productos.
 
 ## Partes del Proyecto:
 
